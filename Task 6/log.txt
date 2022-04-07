@@ -1,0 +1,7 @@
+Ошибка деления
+Traceback (most recent call last):
+  File "/Users/anaplo1/Documents/Python projects/Pr 3/Task 6/Task 6.py", line 11, in run_with_log
+    func(1, 0)
+  File "/Users/anaplo1/Documents/Python projects/Pr 3/Task 6/Task 6.py", line 17, in f
+    return a / b
+ZeroDivisionError: division by zero
